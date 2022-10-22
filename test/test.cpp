@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 
-    string s = "helo";
+    string s = "hello";
     string P = "hello";
 
     isTheSame(s, P);
